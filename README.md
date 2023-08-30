@@ -4,7 +4,7 @@ A collection of tools and pipelines for object detection, anomaly detection, sit
 A Joint Development between [Gigarion](https://gigarion.com/) and [Daienso Lab](https://www.daienso.com/)
 
 ## High-level View
-![Fansipan](docs/figs/EnsoRion_detection-proposal.png)
+![Fansipan](docs/figs/Fansipan_highlevelview.png)
 Fansipan focuses on anomaly detection and situation reactions based on detected results from video/audio/sensor sources combined with contexts from domains and operations, using powerful and customized messaging systems suitable for different customer settings (such as gRPC, MQTT, Pulsar, Kafka, and AMQP) for real-time scenarios.
 
 ### Object Detection subsystem
