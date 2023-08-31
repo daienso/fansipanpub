@@ -23,6 +23,6 @@ The service has a wide range of applications in smart security monitoring, predi
 Integrates the solutions with customer’s business processes and automated workflows as well as incident management systems.
 
 ## References
-[1] H. -L. Truong and N. Ngoc Nhu Trang, "HAIVAN: a Holistic ML Analytics Infrastructure for a Variety of Radio Access Networks," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 2389-2393, doi: 10.1109/BigData55660.2022.10020515. [HAIVAN Paper](https://acris.aalto.fi/ws/portalfiles/portal/91823963/main.pdf)
+[1] H. -L. Truong and N. Ngoc Nhu Trang, "HAIVAN: a Holistic ML Analytics Infrastructure for a Variety of Radio Access Networks," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 2389-2393, doi: 10.1109/BigData55660.2022.10020515. [PDF Paper](https://acris.aalto.fi/ws/portalfiles/portal/91823963/main.pdf)
 
-[2] N. N. N. Trang and H. -L. Truong, "Context-aware, Composable Anomaly Detection in Large-scale Mobile Networks," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 183-192, doi: 10.1109/COMPSAC57700.2023.00032. [DAD Paper](https://acris.aalto.fi/ws/portalfiles/portal/108507769/main.pdf)
+[2] N. N. N. Trang and H. -L. Truong, "Context-aware, Composable Anomaly Detection in Large-scale Mobile Networks," 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), Torino, Italy, 2023, pp. 183-192, doi: 10.1109/COMPSAC57700.2023.00032. [PDF Paper](https://acris.aalto.fi/ws/portalfiles/portal/108507769/main.pdf)
