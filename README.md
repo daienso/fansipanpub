@@ -11,10 +11,10 @@ Fansipan focuses on anomaly detection and situation reactions based on detected 
 Using state-of-the-art detection models (PyTorch, Ultralytics YOLOv*, etc.), which are well-trained with data collected for specific domains.
 
 ### Feature Ingestion subsystem, Vector Database, and Situation Database
-Our focuses are on (1) extracting situations from the detected objects for the Situation Management Service and (2) modeling the output of Object Detection subsystem and situation extraction in the right structure for further analytics, ML, and automation.
+Our focuses are on (1) extracting situations from the detected objects for the Situation Management Service and (2) modeling the output of Object Detection subsystem and situation extraction in the right structure for further analytics, ML, and automation. Fansipan brings our research on holistic analytics for modeling extracted data, domain analytics subjects and based on our extensible knowhow [1] in telcos domains.
 
 ### Context-aware, Composable Anomaly Detection subsystem
-Contexts are used to understand the operation's needs, capture relevant data and analytics requirements, and access the relevance and importance of domain knowledge.
+Fansipan includes our research novelties – the Daienso Anomaly Detection framework [2], where context-awareness in end-to-end detection and the composability of algorithms and contexts are the keys. Contexts are used to understand the operation's needs, capture relevant data and analytics requirements, and access the relevance and importance of domain knowledge.
 
 ### Smart, Context-aware Situation Management Service
 The service has a wide range of applications in smart security monitoring, predictive maintenance, water management, surface/structure defect surveying.
