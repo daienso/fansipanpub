@@ -1,4 +1,4 @@
-# Fansipan - Fast Analytics aNd Situational Intelligence Platform for Anomaly resolutioN
+# FANSIPAN - Fast Analytics aNd Situational Intelligence Platform for Anomaly resolutioN
 A collection of tools and pipelines for object detection, anomaly detection, situation analytics, including search features in a holistic manner. It includes end-to-end stream-processing pipelines with state-of-the-art techniques, analytics, and ML models to serve various purposes in various application domains.
 ## Intro
 A Joint Development between [Gigarion](https://gigarion.com/) and [Daienso Lab](https://www.daienso.com/)
@@ -21,6 +21,17 @@ The service has a wide range of applications in smart security monitoring, predi
 
 ### Business Process Management
 Integrates the solutions with customer’s business processes and automated workflows as well as incident management systems.
+
+## Use cases
+Fansipan framework supports many functions when applied to many use cases: (1) results from state-of-the-art detection models (e.g., object detection models, sound detection models, etc.) from different sources can be easily integrated into Fansipan, (2) Fansipan helps to ingest detected data (real-time, via different application/network protocols) to the cloud, (3) enriching/transforming detected data (interoperability), and (4) aggregating different (enriching/transforming) detected data for suitable applications.
+
+### Search and Localization
+Applications/Domains: (1) similar search in security monitoring, healthcare, etc. (2) object search and localization in manufacturing, monitoring, etc.
+Keys: effective detected data modeling for storage and search engines.
+
+### Safety
+Applications/Domains: detect dangerous situations in specific zones (such as construction sites, warehouses, seaports, etc.).
+Keys: composable analytics and detection models; interoperability for sharing data (in emergency situations or necessary cases). 
 
 ## References
 [1] H. -L. Truong and N. Ngoc Nhu Trang, "HAIVAN: a Holistic ML Analytics Infrastructure for a Variety of Radio Access Networks," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 2389-2393, doi: 10.1109/BigData55660.2022.10020515. [PDF Paper](https://acris.aalto.fi/ws/portalfiles/portal/91823963/main.pdf)
