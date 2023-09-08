@@ -22,11 +22,15 @@ The service has a wide range of applications in smart security monitoring, predi
 ### Business Process Management
 Integrates the solutions with customer’s business processes and automated workflows as well as incident management systems.
 
-## Use cases
-Fansipan framework supports many functions when applied to many use cases: (1) results from state-of-the-art detection models (e.g., object detection models, sound detection models, etc.) from different sources can be easily integrated into Fansipan, (2) Fansipan helps to ingest detected data (real-time, via different application/network protocols) to the cloud, (3) enriching/transforming detected data (interoperability), and (4) aggregating different (enriching/transforming) detected data for suitable applications.
+## Applications and Use cases
+Fansipan framework supports many functions when applied to many use cases: 
+*  Results from state-of-the-art detection models (e.g., object detection models, sound detection models, etc.) from different sources can be integrated using Fansipan adaptors and connectors. This allows many applications and existing systems employing their own technology stack for object detection, utilizing specific ML models but do not worry about dealing with diverse formats of results 
+* Fansipan provides features for ingesting detected data (real-time, via different application/network protocols) to the cloud, allow ETL of detected data via interoperable connections for object detection pipleines, messaging and sink databases 
+* Features for enriching/transforming detected data with other provenance and metadata to support data interoperability for detection applications, which can process results from different types of pipelines and ML models from different vendors
+* Features for aggregating different (enriched/transformed) detected data from different points of detections for suitable applications which deal with situation detection in zones.
 
 ### Search and Localization
-Applications/Domains: (1) similar search in security monitoring, healthcare, etc. (2) object search and localization in manufacturing, monitoring, etc.
+Applications/Domains: similarity search in security monitoring, object search and localization in manufacturing and monitoring. 
 
 Keys: effective detected data modeling for storage and search engines.
 
