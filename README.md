@@ -27,10 +27,12 @@ Fansipan framework supports many functions when applied to many use cases: (1) r
 
 ### Search and Localization
 Applications/Domains: (1) similar search in security monitoring, healthcare, etc. (2) object search and localization in manufacturing, monitoring, etc.
+
 Keys: effective detected data modeling for storage and search engines.
 
 ### Safety
 Applications/Domains: detect dangerous situations in specific zones (such as construction sites, warehouses, seaports, etc.).
+
 Keys: composable analytics and detection models; interoperability for sharing data (in emergency situations or necessary cases). 
 
 ## References
