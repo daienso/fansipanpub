@@ -39,6 +39,11 @@ Applications/Domains: detect dangerous situations in specific zones (such as con
 
 Keys: composable analytics and detection models; interoperability for sharing data (in emergency situations or necessary cases). 
 
+## Open Software modules
+
+### Fansipan-AFS
+[Analytics Feature Space](https://github.com/daienso/fansipan-afs) Framework for encapsulating and representing detection results and metadata into interoperable records about analytics subjects that are detected by machine learning pipelines in the edge
+
 ## References
 [1] H. -L. Truong and N. Ngoc Nhu Trang, "HAIVAN: a Holistic ML Analytics Infrastructure for a Variety of Radio Access Networks," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 2389-2393, doi: 10.1109/BigData55660.2022.10020515. [PDF Paper](https://acris.aalto.fi/ws/portalfiles/portal/91823963/main.pdf)
 
