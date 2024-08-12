@@ -2,6 +2,7 @@
 A collection of tools and pipelines for object detection, anomaly detection, situation analytics, including search features in a holistic manner. It includes end-to-end stream-processing pipelines with state-of-the-art techniques, analytics, and ML models to serve various purposes in various application domains.
 ## Intro
 A Joint Development between [Gigarion](https://gigarion.com/) and [Daienso Lab](https://www.daienso.com/)
+[Technical brief video](https://drive.google.com/file/d/1rzRWEt5dXMO-wbXzklXbT5IZi3UYJSja/view?usp=drive_link)
 
 ## High-level View
 ![Fansipan](docs/figs/Fansipan_highlevelview.png)
